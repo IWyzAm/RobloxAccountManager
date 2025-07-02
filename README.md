@@ -5,3 +5,6 @@ When installing make sure to reset the password because since its 1:1 what i hav
 u can check on virustotal or any anti-virus thing to check if it have a virus and compare to the original Account Manager
 
 You're welcome to donate at paypal.me/WyzD
+
+for any issue contact me with [my porfolio](https://wyz.lol/html/portfolio)
+here's my discord incase the link doesn't work CalledWyz
