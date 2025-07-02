@@ -1,0 +1,417 @@
+2024-03-02 12:26:20,203 [45] INFO  Account Manager - Attempting to refresh Wyz_Alt4 | Last Use: 2024-02-11 12:21:36 PM
+2024-03-02 12:26:25,712 [45] INFO  Account Manager - Attempting to refresh Wyz_Alt9 | Last Use: 2024-02-11 12:22:08 PM
+2024-03-02 12:31:20,199 [17] INFO  Account Manager - Attempting to refresh Wyz_Alt2 | Last Use: 2024-02-11 12:28:30 PM
+2024-03-02 12:36:20,209 [49] INFO  Account Manager - Attempting to refresh Wyz_Alt1 | Last Use: 2024-02-11 12:31:41 PM
+2024-03-02 12:36:25,619 [49] INFO  Account Manager - Attempting to refresh Wyz_Alt11 | Last Use: 2024-02-11 12:35:19 PM
+2024-03-02 12:41:20,214 [78] INFO  Account Manager - Attempting to refresh Frisk_Bio | Last Use: 2024-02-11 12:39:29 PM
+2024-03-07 13:25:56,319 [23] INFO  Account Manager - Attempting to refresh Wyz_Alt3 | Last Use: 2024-02-14 8:01:43 PM
+2024-03-16 13:29:50,538 [107] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-03-21 22:58:09,629 [122] INFO  Account Manager - Attempting to refresh ToV3nus | Last Use: 2024-03-01 10:57:09 PM
+2024-03-22 12:28:10,881 [6] INFO  Account Manager - Attempting to refresh Wyz_Alt4 | Last Use: 2024-03-02 12:26:20 PM
+2024-03-22 12:28:16,294 [6] INFO  Account Manager - Attempting to refresh Wyz_Alt9 | Last Use: 2024-03-02 12:26:25 PM
+2024-03-22 12:38:10,896 [138] INFO  Account Manager - Attempting to refresh Wyz_Alt1 | Last Use: 2024-03-02 12:36:20 PM
+2024-03-22 12:38:16,294 [138] INFO  Account Manager - Attempting to refresh Wyz_Alt11 | Last Use: 2024-03-02 12:36:25 PM
+2024-03-22 12:43:10,905 [201] INFO  Account Manager - Attempting to refresh Frisk_Bio | Last Use: 2024-03-02 12:41:20 PM
+2024-03-22 14:08:10,982 [39] INFO  Account Manager - Attempting to refresh Wyz_Alt2 | Last Use: 2024-03-02 2:03:51 PM
+2024-05-26 17:40:45,712 [18] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-05-26 17:41:17,272 [22] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-05-28 21:02:54,860 [16] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-05-28 21:08:22,200 [39] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-05-28 21:16:06,720 [86] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-05-28 21:52:54,760 [84] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-05-29 06:53:21,605 [103] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-05-29 17:19:12,447 [166] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-05-29 17:58:45,309 [161] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-05-29 18:03:52,279 [221] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-05-29 19:10:09,218 [46] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-05-29 19:40:06,431 [79] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-05-29 21:14:52,779 [129] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-05-29 21:17:25,866 [198] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-05-29 21:17:59,104 [52] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-05-30 16:08:51,750 [242] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-05-30 16:17:02,449 [101] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-05-30 16:40:34,866 [151] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-05-30 16:41:03,501 [167] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-05-30 16:41:03,803 [167] ERROR Account Manager - An error occured attempting to close Wyz_Alt1's last process(es): System.ArgumentNullException: Value cannot be null.
+Parameter name: input
+   at System.Text.RegularExpressions.Regex.Match(String input)
+   at System.Text.RegularExpressions.Regex.Match(String input, String pattern)
+   at RBX_Alt_Manager.Account.<JoinServer>d__52.MoveNext() in C:\Users\Euonix\source\repos\RBX Alt Manager\RBX Alt Manager\Classes\Account.cs:line 529
+2024-05-30 16:51:31,681 [43] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-05-30 17:03:17,667 [20] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-05-30 17:15:50,326 [75] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-06-28 17:22:11,779 [25] INFO  Account Manager - Attempting to refresh Wyz_Alt1 | Last Use: 2024-05-30 5:15:50 PM
+2024-06-28 17:22:17,307 [9] INFO  Account Manager - Attempting to refresh Wyz_Alt12 | Last Use: 2024-05-30 4:37:29 PM
+2024-06-30 18:35:58,452 [174] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-06-30 19:12:43,934 [139] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-06-30 19:13:40,785 [165] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-06-30 19:14:24,357 [102] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-06-30 19:14:54,271 [163] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-06-30 19:15:32,309 [141] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-06-30 19:16:40,832 [132] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-06-30 19:19:13,919 [76] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-06-30 19:20:55,323 [23] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-06-30 19:21:58,372 [107] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-06-30 19:23:16,121 [76] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-06-30 19:23:34,700 [25] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-06-30 19:24:29,251 [107] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-06-30 19:49:27,485 [144] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-06-30 20:08:11,800 [137] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-07-01 01:38:12,130 [131] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-07-01 01:38:30,729 [1] INFO  Account Manager - MarketResponse for 3016661674: [OK] {"TargetId":3016661674,"ProductType":"User Product","AssetId":3016661674,"ProductId":502391436,"Name":"[??] Rogue Lineage","Description":">> This game is incredibly difficult with little to no hand holding. Enter at your own risk. <<\n\nNominee for \"Sleeper Hit\" in the 7th Annual Bloxy Awards.\n\nRogue Lineage is a fantasy game with roguelike elements. The game revolves around a permadeath mechanic, where each of your characters will have but a few lives before they die forever. You'll pass down some pieces of yourself to your heir, who'll become your next character.\n\nPlayers will progress by learning new abilities and trying to best their previous characters. Forge houses with your friends to take control of cities, or stick it out alone. Tackle injuries, diseases, and trauma as you struggle to survive in this testament to pain.\n\nDeveloped by: Ragoozer, Arch_Mage, Grimmkind, Melon_Sensei, aptorian, Rookie_Ethnic, Sherosama\nContributions from: Nilvaat (Weapon Modelling), Blotnik (Clothing), x_o (Music), superstephon (Weapon Modelling)\nHuge Inspiration from Noloafing\n\nA game by Monad Studios.","AssetTypeId":9,"Creator":{"Id":875316944,"Name":"Rogue Lineage","CreatorType":"Group","CreatorTargetId":4556484,"HasVerifiedBadge":true},"IconImageAssetId":11566173153,"Created":"2019-03-29T21:15:32.453Z","Updated":"2024-05-31T19:07:09.403Z","PriceInRobux":200,"PriceInTickets":null,"Sales":0,"IsNew":false,"IsForSale":true,"IsPublicDomain":false,"IsLimited":false,"IsLimitedUnique":false,"Remaining":null,"MinimumMembershipLevel":0,"ContentRatingTypeId":0,"SaleAvailabilityLocations":null,"SaleLocation":null,"CollectibleItemId":null,"CollectibleProductId":null,"CollectiblesItemDetails":null}
+2024-07-01 01:38:30,737 [174] INFO  Account Manager - Removing 0 favorite games because they have no GameDetails available!
+2024-07-01 01:38:44,622 [1] INFO  Account Manager - MarketResponse for 3016661674: [429] {"errors":[{"code":0,"message":"Too many requests"}]}
+2024-07-01 01:38:47,784 [1] INFO  Account Manager - MarketResponse for 3016661674: [429] {"errors":[{"code":0,"message":"Too many requests"}]}
+2024-07-01 18:11:55,353 [183] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-07-15 20:53:28,311 [30] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-07-15 21:07:42,936 [17] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-07-15 21:07:54,144 [41] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-07-15 21:12:47,848 [42] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-07-20 18:33:45,365 [11] INFO  Account Manager - Attempting to refresh Wyz_Alt11 | Last Use: 2024-06-30 6:29:56 PM
+2024-07-20 18:38:45,376 [11] INFO  Account Manager - Attempting to refresh Wyz_Alt1 | Last Use: 2024-06-30 6:35:58 PM
+2024-07-20 18:38:50,735 [11] INFO  Account Manager - Attempting to refresh Frisk_Bio | Last Use: 2024-06-30 6:38:13 PM
+2024-07-20 19:13:45,424 [11] INFO  Account Manager - Attempting to refresh Wyz_Alt2 | Last Use: 2024-06-30 7:12:44 PM
+2024-07-20 19:13:50,758 [31] INFO  Account Manager - Attempting to refresh Wyz_Alt3 | Last Use: 2024-06-30 7:13:40 PM
+2024-07-20 19:18:45,429 [57] INFO  Account Manager - Attempting to refresh Wyz_Alt4 | Last Use: 2024-06-30 7:14:24 PM
+2024-07-20 19:18:50,717 [11] INFO  Account Manager - Attempting to refresh Wyz_Alt5 | Last Use: 2024-06-30 7:14:54 PM
+2024-07-20 19:23:45,444 [57] INFO  Account Manager - Attempting to refresh Wyz_Alt12 | Last Use: 2024-06-30 7:23:16 PM
+2024-07-20 19:23:50,759 [11] INFO  Account Manager - Attempting to refresh ToV3nus | Last Use: 2024-06-30 7:23:34 PM
+2024-07-20 19:28:45,448 [57] INFO  Account Manager - Attempting to refresh Wyz_Alt8 | Last Use: 2024-06-30 7:24:29 PM
+2024-07-21 01:38:46,336 [57] INFO  Account Manager - Attempting to refresh Just_AnPrivateAcc | Last Use: 2024-07-01 1:38:12 AM
+2024-07-23 13:46:36,126 [16] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-07-23 13:46:43,123 [16] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-07-26 12:57:31,406 [10] INFO  Account Manager - Attempting to refresh Wyz_O | Last Use: 2024-07-05 6:07:56 PM
+2024-07-27 21:20:32,787 [1] INFO  Account Manager - MarketResponse for 3016661674: [OK] {"TargetId":3016661674,"ProductType":"User Product","AssetId":3016661674,"ProductId":502391436,"Name":"[??] Rogue Lineage","Description":">> This game is incredibly difficult with little to no hand holding. Enter at your own risk. <<\n\nNominee for \"Sleeper Hit\" in the 7th Annual Bloxy Awards.\n\nRogue Lineage is a fantasy game with roguelike elements. The game revolves around a permadeath mechanic, where each of your characters will have but a few lives before they die forever. You'll pass down some pieces of yourself to your heir, who'll become your next character.\n\nPlayers will progress by learning new abilities and trying to best their previous characters. Forge houses with your friends to take control of cities, or stick it out alone. Tackle injuries, diseases, and trauma as you struggle to survive in this testament to pain.\n\nDeveloped by: Ragoozer, Arch_Mage, Grimmkind, Melon_Sensei, aptorian, Rookie_Ethnic, Sherosama\nContributions from: Nilvaat (Weapon Modelling), Blotnik (Clothing), x_o (Music), superstephon (Weapon Modelling)\nHuge Inspiration from Noloafing\n\nA game by Monad Studios.","AssetTypeId":9,"Creator":{"Id":875316944,"Name":"Rogue Lineage","CreatorType":"Group","CreatorTargetId":4556484,"HasVerifiedBadge":true},"IconImageAssetId":11566173153,"Created":"2019-03-29T21:15:32.453Z","Updated":"2024-05-31T19:07:09.403Z","PriceInRobux":200,"PriceInTickets":null,"Sales":0,"IsNew":false,"IsForSale":true,"IsPublicDomain":false,"IsLimited":false,"IsLimitedUnique":false,"Remaining":null,"MinimumMembershipLevel":0,"ContentRatingTypeId":0,"SaleAvailabilityLocations":null,"SaleLocation":null,"CollectibleItemId":null,"CollectibleProductId":null,"CollectiblesItemDetails":null}
+2024-07-27 21:20:39,154 [1] INFO  Account Manager - MarketResponse for 3016661674: [429] {"errors":[{"code":0,"message":"Too many requests"}]}
+2024-07-27 21:20:44,671 [1] INFO  Account Manager - MarketResponse for 3016661674: [429] {"errors":[{"code":0,"message":"Too many requests"}]}
+2024-07-28 15:15:12,668 [12] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-07-28 15:15:16,163 [3] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-07-28 15:15:19,513 [26] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-07-28 15:15:31,378 [3] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-07-28 15:15:51,806 [1] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-07-28 15:16:00,034 [1] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-07-28 15:16:08,260 [1] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-07-28 15:16:16,502 [1] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-07-28 15:16:24,740 [1] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-07-28 15:16:32,947 [1] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-07-28 15:16:41,145 [1] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-07-28 15:16:49,328 [1] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-07-28 15:16:57,522 [1] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-07-28 15:17:05,724 [1] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-07-28 15:17:13,981 [1] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-07-28 15:17:22,205 [1] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-07-31 17:13:33,682 [1] WARN  Account Manager - Restarting app due to config hash mismatch
+[App.config]
+	Current:  5E0BA1895CF088E6D6907B8ABBD8CD41C86F39CC642351A9AB0BF458BF1F5B31
+	Expected: 2B6D99DB8369B0FF6372737D89D1C9E4101815B4168A3852C7B513F2897E7F3D
+[log4.config]
+	Current:  E4B10630D9EC2AF508DE31752FBBC6816C7426C40A3E57F0A085CE7F42C77BD5
+	Expected: E4B10630D9EC2AF508DE31752FBBC6816C7426C40A3E57F0A085CE7F42C77BD5
+2024-07-31 17:15:56,492 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-07-31 17:16:21,444 [1] ERROR Account Manager - [AccountManager::Add_Click] An error was encountered attempting to login: PuppeteerSharp.PuppeteerException: Failed to download Chrome for Win64 from https://storage.googleapis.com/chrome-for-testing-public/124.0.6367.201/win64/chrome-win64.zip ---> System.IO.IOException: The process cannot access the file 'C:\Users\wysdo\AppData\Local\PuppeteerSharp\chrome-win64.zip' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   at PuppeteerSharp.BrowserFetcher.<DownloadFileUsingHttpClientTaskAsync>d__43.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at PuppeteerSharp.BrowserFetcher.<DownloadAsync>d__38.MoveNext()
+   --- End of inner exception stack trace ---
+   at PuppeteerSharp.BrowserFetcher.<DownloadAsync>d__38.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at PuppeteerSharp.BrowserFetcher.<DownloadAsync>d__31.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at RBX_Alt_Manager.Classes.AccountBrowser.<LaunchBrowser>d__13.MoveNext() in C:\dev\Roblox Account Manager\RBX Alt Manager\Classes\AccountBrowser.cs:line 138
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at RBX_Alt_Manager.Classes.AccountBrowser.<Login>d__14.MoveNext() in C:\dev\Roblox Account Manager\RBX Alt Manager\Classes\AccountBrowser.cs:line 176
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at RBX_Alt_Manager.AccountManager.<Add_Click>d__107.MoveNext() in C:\dev\Roblox Account Manager\RBX Alt Manager\AccountManager.cs:line 1356
+2024-07-31 17:17:18,886 [7] INFO  Account Manager - -Command "Get-AppxPackage *Roblox* | Format-List -Property InstallLocation"
+2024-07-31 17:17:51,851 [7] INFO  Account Manager - -Command "Get-AppxPackage ROBLOXCORPORATION.ROBLOX.* | Format-List -Property Name, PackageFullName"
+2024-07-31 17:18:08,682 [8] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-07-31 17:30:42,479 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-07-31 17:50:47,862 [42] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-07-31 17:51:11,274 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-07-31 17:51:52,710 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-07-31 17:52:24,707 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-07-31 17:53:45,567 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-07-31 17:55:29,709 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-07-31 17:57:36,019 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-07-31 17:59:00,570 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-07-31 18:07:09,841 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-07-31 18:10:35,271 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-07-31 18:13:29,405 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-07-31 18:20:34,049 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-07-31 18:24:54,195 [91] INFO  Account Manager - -Command "Get-AppxPackage *Roblox* | Format-List -Property InstallLocation"
+2024-07-31 18:25:27,577 [91] INFO  Account Manager - -Command "Get-AppxPackage ROBLOXCORPORATION.ROBLOX.* | Format-List -Property Name, PackageFullName"
+2024-08-02 15:46:48,870 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-02 15:47:41,931 [63] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-02 15:48:40,515 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-02 15:49:28,290 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-02 15:49:52,700 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-02 15:50:55,514 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-02 15:51:57,335 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-02 15:54:01,541 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-03 19:40:07,563 [13] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-03 19:55:29,094 [71] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-04 14:20:48,411 [67] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-04 20:39:04,842 [73] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-04 22:43:41,300 [33] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-05 00:03:26,128 [25] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-06 13:41:03,004 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-06 13:41:32,697 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-06 13:41:50,987 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-06 13:42:32,862 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-06 13:43:40,654 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-06 13:44:35,535 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-06 13:45:37,655 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-06 16:51:04,238 [76] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-06 16:53:00,386 [71] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-06 19:30:42,447 [91] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-06 19:51:46,690 [53] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-06 19:53:58,593 [50] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-06 20:27:12,513 [64] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-06 20:29:21,361 [60] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-06 20:41:16,151 [3] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-06 20:49:38,310 [54] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-06 20:50:38,907 [52] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-06 20:54:47,252 [76] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-06 20:55:48,092 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-06 21:31:10,671 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-06 21:32:38,896 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-06 22:13:42,664 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-07 19:33:14,171 [77] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-07 19:47:42,630 [68] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-07 19:49:47,077 [49] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-07 19:55:49,492 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-08 16:00:52,149 [30] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-08 16:02:28,236 [27] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-08 16:03:42,815 [25] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-08 16:27:36,356 [24] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-08 16:33:50,774 [24] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-08 16:35:45,564 [31] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-08 16:37:25,888 [26] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-08 16:37:59,152 [26] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-09 18:42:10,217 [23] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-09 19:05:51,361 [23] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-13 16:19:07,612 [17] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-13 16:21:33,027 [8] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-13 17:10:23,914 [24] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-13 17:25:34,122 [5] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-13 19:43:22,990 [35] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-13 19:45:06,050 [39] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-13 19:57:45,032 [20] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-13 19:58:31,134 [30] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-13 19:59:22,264 [27] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-13 20:00:13,145 [20] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-13 20:00:43,749 [22] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-13 20:01:48,676 [37] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-13 20:19:19,453 [21] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-13 20:19:52,876 [8] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-13 20:22:26,836 [20] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-13 20:24:39,683 [20] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-13 20:31:38,107 [24] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-13 20:53:03,543 [19] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-13 21:18:04,483 [34] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-16 19:58:32,762 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-17 18:40:40,576 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-17 18:43:38,315 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-18 13:28:12,304 [25] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-26 20:01:09,255 [20] INFO  Account Manager - Attempting to refresh Wyz_Alt2 | Last Use: 2024-08-06 1:41:32 PM
+2024-08-26 20:01:14,698 [7] INFO  Account Manager - Attempting to refresh Wyz_Alt4 | Last Use: 2024-08-06 1:42:32 PM
+2024-08-26 20:01:19,957 [5] INFO  Account Manager - Attempting to refresh Wyz_Alt8 | Last Use: 2024-08-03 7:55:29 PM
+2024-08-26 20:01:25,161 [7] INFO  Account Manager - Attempting to refresh Wyz_Alt10 | Last Use: 2024-07-31 6:10:35 PM
+2024-08-26 20:01:30,429 [7] INFO  Account Manager - Attempting to refresh TheyCallMeDeveloper | Last Use: 2024-08-02 11:09:55 PM
+2024-08-26 20:01:35,716 [7] INFO  Account Manager - Attempting to refresh 0TaKu_500 | Last Use: 2024-08-04 2:20:48 PM
+2024-08-26 20:01:41,006 [13] INFO  Account Manager - Attempting to refresh Wyz_Alt11 | Last Use: 2024-07-31 6:13:29 PM
+2024-08-26 20:01:46,302 [14] INFO  Account Manager - Attempting to refresh Wyz_Alt12 | Last Use: 2024-07-31 6:20:38 PM
+2024-08-26 20:01:51,600 [5] INFO  Account Manager - Attempting to refresh Wyz_Alt14 | Last Use: 2024-08-06 2:13:19 PM
+2024-08-26 20:01:56,887 [5] INFO  Account Manager - Attempting to refresh Wyz_Alt13 | Last Use: 2024-08-06 2:12:53 PM
+2024-08-26 20:02:02,151 [13] INFO  Account Manager - Attempting to refresh Wyz_Alt15 | Last Use: 2024-08-06 2:13:28 PM
+2024-08-26 20:02:07,527 [14] INFO  Account Manager - Attempting to refresh Wyz_Alt16 | Last Use: 2024-08-06 2:13:35 PM
+2024-08-26 20:02:12,837 [13] INFO  Account Manager - Attempting to refresh Wyz_Alt17 | Last Use: 2024-08-06 2:15:06 PM
+2024-08-28 12:07:59,592 [31] INFO  Account Manager - Attempting to refresh Wyz_Alt5 | Last Use: 2024-08-06 9:32:38 PM
+2024-09-02 20:50:15,836 [28] INFO  Account Manager - Attempting to refresh Wyz_Alt6 | Last Use: 2024-08-13 5:10:24 PM
+2024-09-02 20:50:21,230 [11] INFO  Account Manager - Attempting to refresh Wyz_Alt9 | Last Use: 2024-08-09 6:42:10 PM
+2024-09-02 20:55:15,840 [30] INFO  Account Manager - Attempting to refresh Wyz_Alt3 | Last Use: 2024-08-13 8:53:03 PM
+2024-09-20 22:20:40,027 [18] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-09-20 22:25:20,534 [22] INFO  Account Manager - Attempting to refresh Wyz_Alt1 | Last Use: 2024-08-16 7:58:32 PM
+2024-09-20 22:25:25,913 [9] INFO  Account Manager - Attempting to refresh Wyz_Alt2 | Last Use: 2024-08-26 8:01:09 PM
+2024-09-20 22:25:31,199 [10] INFO  Account Manager - Attempting to refresh Wyz_Alt4 | Last Use: 2024-08-26 8:01:14 PM
+2024-09-20 22:25:36,499 [9] INFO  Account Manager - Attempting to refresh Wyz_Alt5 | Last Use: 2024-08-28 12:07:59 PM
+2024-09-20 22:25:41,790 [13] INFO  Account Manager - Attempting to refresh Wyz_Alt7 | Last Use: 2024-08-18 1:28:12 PM
+2024-09-20 22:25:47,092 [7] INFO  Account Manager - Attempting to refresh Wyz_Alt8 | Last Use: 2024-08-26 8:01:20 PM
+2024-09-20 22:25:52,365 [7] INFO  Account Manager - Attempting to refresh Wyz_Alt10 | Last Use: 2024-08-26 8:01:25 PM
+2024-09-20 22:25:58,553 [10] INFO  Account Manager - Attempting to refresh TheyCallMeDeveloper | Last Use: 2024-08-26 8:01:30 PM
+2024-09-20 22:26:03,839 [7] INFO  Account Manager - Attempting to refresh 0TaKu_500 | Last Use: 2024-08-26 8:01:35 PM
+2024-09-20 22:26:09,288 [7] INFO  Account Manager - Attempting to refresh Wyz_Alt11 | Last Use: 2024-08-26 8:01:41 PM
+2024-09-20 22:26:14,634 [10] INFO  Account Manager - Attempting to refresh Wyz_Alt12 | Last Use: 2024-08-26 8:01:46 PM
+2024-09-20 22:26:19,950 [7] INFO  Account Manager - Attempting to refresh Wyz_Alt14 | Last Use: 2024-08-26 8:01:51 PM
+2024-09-20 22:26:25,403 [10] INFO  Account Manager - Attempting to refresh Wyz_Alt13 | Last Use: 2024-08-26 8:01:57 PM
+2024-09-20 22:26:34,980 [13] INFO  Account Manager - Attempting to refresh Wyz_Alt15 | Last Use: 2024-08-26 8:02:02 PM
+2024-09-20 22:26:40,278 [13] INFO  Account Manager - Attempting to refresh Wyz_Alt16 | Last Use: 2024-08-26 8:02:07 PM
+2024-09-20 22:26:45,619 [14] INFO  Account Manager - Attempting to refresh Wyz_Alt17 | Last Use: 2024-08-26 8:02:13 PM
+2024-09-22 19:24:50,569 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-09-22 19:25:28,748 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-09-22 19:31:28,508 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-09-22 20:53:29,041 [19] INFO  Account Manager - Attempting to refresh Wyz_Alt6 | Last Use: 2024-09-02 8:50:16 PM
+2024-09-22 20:53:34,366 [12] INFO  Account Manager - Attempting to refresh Wyz_Alt9 | Last Use: 2024-09-02 8:50:21 PM
+2024-09-22 20:58:29,047 [22] INFO  Account Manager - Attempting to refresh Wyz_Alt3 | Last Use: 2024-09-02 8:55:16 PM
+2024-10-11 17:32:06,858 [28] INFO  Account Manager - Attempting to refresh Wyz_Alt1 | Last Use: 2024-09-20 10:25:20 PM
+2024-10-11 17:32:12,247 [13] INFO  Account Manager - Attempting to refresh Wyz_Alt2 | Last Use: 2024-09-20 10:25:26 PM
+2024-10-11 17:32:17,535 [12] INFO  Account Manager - Attempting to refresh Wyz_Alt4 | Last Use: 2024-09-20 10:25:31 PM
+2024-10-11 17:32:22,863 [10] INFO  Account Manager - Attempting to refresh Wyz_Alt5 | Last Use: 2024-09-20 10:25:36 PM
+2024-10-11 17:32:28,212 [12] INFO  Account Manager - Attempting to refresh Wyz_Alt7 | Last Use: 2024-09-20 10:25:42 PM
+2024-10-11 17:32:33,535 [12] INFO  Account Manager - Attempting to refresh Wyz_Alt8 | Last Use: 2024-09-20 10:25:47 PM
+2024-10-11 17:32:38,727 [13] INFO  Account Manager - Attempting to refresh Wyz_Alt10 | Last Use: 2024-09-20 10:25:53 PM
+2024-10-11 17:32:43,956 [7] INFO  Account Manager - Attempting to refresh ToV3nus | Last Use: 2024-09-20 10:20:40 PM
+2024-10-11 17:32:49,228 [13] INFO  Account Manager - Attempting to refresh TheyCallMeDeveloper | Last Use: 2024-09-20 10:25:58 PM
+2024-10-11 17:32:54,485 [7] INFO  Account Manager - Attempting to refresh 0TaKu_500 | Last Use: 2024-09-20 10:26:04 PM
+2024-10-11 17:32:59,781 [13] INFO  Account Manager - Attempting to refresh Wyz_Alt11 | Last Use: 2024-09-20 10:26:09 PM
+2024-10-11 17:33:05,052 [13] INFO  Account Manager - Attempting to refresh Wyz_Alt12 | Last Use: 2024-09-20 10:26:14 PM
+2024-10-11 17:33:10,355 [10] INFO  Account Manager - Attempting to refresh Wyz_Alt14 | Last Use: 2024-09-20 10:26:20 PM
+2024-10-11 17:33:15,631 [12] INFO  Account Manager - Attempting to refresh Wyz_Alt13 | Last Use: 2024-09-20 10:26:29 PM
+2024-10-11 17:33:20,887 [13] INFO  Account Manager - Attempting to refresh Wyz_Alt15 | Last Use: 2024-09-20 10:26:35 PM
+2024-10-11 17:33:26,221 [12] INFO  Account Manager - Attempting to refresh Wyz_Alt16 | Last Use: 2024-09-20 10:26:40 PM
+2024-10-11 17:33:31,549 [7] INFO  Account Manager - Attempting to refresh Wyz_Alt17 | Last Use: 2024-09-20 10:26:45 PM
+2024-10-12 19:32:09,851 [7] INFO  Account Manager - Attempting to refresh calledwyz | Last Use: 2024-09-22 7:31:28 PM
+2024-10-12 20:57:10,030 [17] INFO  Account Manager - Attempting to refresh Wyz_Alt6 | Last Use: 2024-09-22 8:53:29 PM
+2024-10-12 20:57:15,424 [24] INFO  Account Manager - Attempting to refresh Wyz_Alt9 | Last Use: 2024-09-22 8:53:34 PM
+2024-10-12 21:02:10,025 [18] INFO  Account Manager - Attempting to refresh Wyz_Alt3 | Last Use: 2024-09-22 8:58:29 PM
+2024-11-15 15:14:20,260 [5] INFO  Account Manager - Attempting to refresh ToV3nus | Last Use: 2024-10-26 3:09:36 PM
+2024-11-17 11:32:54,599 [24] INFO  Account Manager - -Command "Get-AppxPackage *Roblox* | Format-List -Property InstallLocation"
+2024-11-17 11:33:55,438 [24] INFO  Account Manager - -Command "Get-AppxPackage ROBLOXCORPORATION.ROBLOX.* | Format-List -Property Name, PackageFullName"
+2024-12-05 10:17:17,226 [43] INFO  Account Manager - Attempting to refresh Wyz_Alt7 | Last Use: 2024-11-15 10:14:14 AM
+2024-12-05 15:17:17,820 [54] INFO  Account Manager - Attempting to refresh ToV3nus | Last Use: 2024-11-15 3:14:20 PM
+2024-12-07 10:37:22,330 [51] INFO  Account Manager - Attempting to refresh Wyz_Alt5 | Last Use: 2024-11-17 10:35:51 AM
+2024-12-07 10:42:22,323 [7] INFO  Account Manager - Attempting to refresh Wyz_Alt8 | Last Use: 2024-11-17 10:42:08 AM
+2024-12-07 11:12:22,399 [53] INFO  Account Manager - Attempting to refresh Wyz_Alt6 | Last Use: 2024-11-17 11:11:05 AM
+2024-12-07 11:17:22,413 [46] INFO  Account Manager - Attempting to refresh Wyz_Alt3 | Last Use: 2024-11-17 11:16:02 AM
+2024-12-07 11:17:27,884 [50] INFO  Account Manager - Attempting to refresh Wyz_Alt9 | Last Use: 2024-11-17 11:12:34 AM
+2024-12-07 11:17:33,244 [13] INFO  Account Manager - Attempting to refresh Wyz_Alt2 | Last Use: 2024-11-17 11:17:29 AM
+2024-12-07 11:22:22,441 [54] INFO  Account Manager - Attempting to refresh Wyz_Alt10 | Last Use: 2024-11-17 11:21:09 AM
+2024-12-26 01:23:41,485 [29] INFO  Account Manager - Attempting to refresh ToV3nus | Last Use: 2024-12-05 3:17:18 PM
+2024-12-26 01:23:47,031 [24] INFO  Account Manager - Attempting to refresh Wyz_Alt7 | Last Use: 2024-12-05 10:17:17 AM
+2024-12-27 10:39:41,791 [23] INFO  Account Manager - Attempting to refresh Wyz_Alt5 | Last Use: 2024-12-07 10:37:22 AM
+2024-12-27 10:44:41,783 [8] INFO  Account Manager - Attempting to refresh Wyz_Alt8 | Last Use: 2024-12-07 10:42:22 AM
+2024-12-27 11:14:41,825 [24] INFO  Account Manager - Attempting to refresh Wyz_Alt6 | Last Use: 2024-12-07 11:12:22 AM
+2024-12-27 11:19:41,801 [24] INFO  Account Manager - Attempting to refresh Wyz_Alt3 | Last Use: 2024-12-07 11:17:22 AM
+2024-12-27 11:19:47,435 [10] INFO  Account Manager - Attempting to refresh Wyz_Alt9 | Last Use: 2024-12-07 11:17:28 AM
+2024-12-27 11:19:53,163 [12] INFO  Account Manager - Attempting to refresh Wyz_Alt2 | Last Use: 2024-12-07 11:17:33 AM
+2024-12-27 11:24:41,857 [29] INFO  Account Manager - Attempting to refresh Wyz_Alt10 | Last Use: 2024-12-07 11:22:23 AM
+2025-01-10 20:45:02,658 [22] INFO  Account Manager - Attempting to refresh TheyCallMeDeveloper | Last Use: 2024-12-19 11:35:56 PM
+2025-01-15 01:25:16,371 [29] INFO  Account Manager - Attempting to refresh Wyz_Alt7 | Last Use: 2024-12-26 1:23:47 AM
+2025-01-16 22:40:22,062 [25] INFO  Account Manager - Attempting to refresh Wyz_Alt3 | Last Use: 2024-12-27 11:19:42 AM
+2025-01-16 22:40:27,555 [9] INFO  Account Manager - Attempting to refresh Wyz_Alt5 | Last Use: 2024-12-27 10:39:42 AM
+2025-01-16 22:40:33,415 [9] INFO  Account Manager - Attempting to refresh Wyz_Alt6 | Last Use: 2024-12-27 11:14:42 AM
+2025-01-16 22:40:39,179 [10] INFO  Account Manager - Attempting to refresh Wyz_Alt8 | Last Use: 2024-12-27 10:44:41 AM
+2025-01-16 22:40:44,362 [14] INFO  Account Manager - Attempting to refresh Wyz_Alt9 | Last Use: 2024-12-27 11:19:47 AM
+2025-01-16 22:40:49,785 [17] INFO  Account Manager - Attempting to refresh Wyz_Alt2 | Last Use: 2024-12-27 11:19:53 AM
+2025-01-16 22:40:55,215 [17] INFO  Account Manager - Attempting to refresh Wyz_Alt10 | Last Use: 2024-12-27 11:24:42 AM
+2025-02-01 17:19:25,745 [4] INFO  Account Manager - Attempting to refresh TheyCallMeDeveloper | Last Use: 2025-01-10 8:45:02 PM
+2025-02-04 20:23:18,896 [26] INFO  Account Manager - Attempting to refresh ToV3nus | Last Use: 2025-01-14 8:34:54 PM
+2025-02-04 20:23:24,304 [10] INFO  Account Manager - Attempting to refresh Wyz_Alt7 | Last Use: 2025-01-15 1:25:21 AM
+2025-02-07 11:44:08,158 [32] INFO  Account Manager - Attempting to refresh Wyz_Alt3 | Last Use: 2025-01-16 10:40:22 PM
+2025-02-07 11:44:13,639 [9] INFO  Account Manager - Attempting to refresh Wyz_Alt5 | Last Use: 2025-01-16 10:40:28 PM
+2025-02-07 11:44:18,920 [9] INFO  Account Manager - Attempting to refresh Wyz_Alt6 | Last Use: 2025-01-16 10:40:34 PM
+2025-02-07 11:44:24,222 [13] INFO  Account Manager - Attempting to refresh Wyz_Alt8 | Last Use: 2025-01-16 10:40:39 PM
+2025-02-07 11:44:29,551 [9] INFO  Account Manager - Attempting to refresh Wyz_Alt9 | Last Use: 2025-01-16 10:40:44 PM
+2025-02-07 11:44:34,877 [9] INFO  Account Manager - Attempting to refresh Wyz_Alt2 | Last Use: 2025-01-16 10:40:49 PM
+2025-02-07 11:44:40,191 [13] INFO  Account Manager - Attempting to refresh Wyz_Alt10 | Last Use: 2025-01-16 10:40:55 PM
+2025-02-08 20:22:37,050 [8] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2025-02-08 20:23:00,529 [19] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2025-02-08 20:23:34,211 [24] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2025-02-08 20:24:01,895 [24] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2025-02-08 20:24:46,368 [28] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2025-02-08 20:25:23,698 [33] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2025-02-08 20:26:05,362 [5] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2025-02-08 20:26:05,713 [5] ERROR Account Manager - [Account::JoinServer] An error occured attempting to close Wyz_Alt2's last process(es): System.ArgumentNullException: Value cannot be null.
+Parameter name: input
+   at System.Text.RegularExpressions.Regex.Match(String input)
+   at System.Text.RegularExpressions.Regex.Match(String input, String pattern)
+   at RBX_Alt_Manager.Account.<JoinServer>d__53.MoveNext() in C:\dev\Roblox Account Manager\RBX Alt Manager\Classes\Account.cs:line 539
+2025-02-08 20:26:57,431 [28] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2025-02-08 20:27:25,641 [30] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2025-03-02 19:02:17,598 [17] INFO  Account Manager - Attempting to refresh ToV3nus | Last Use: 2025-02-08 8:22:37 PM
+2025-03-02 19:02:23,098 [10] INFO  Account Manager - Attempting to refresh Wyz_Alt3 | Last Use: 2025-02-08 8:23:00 PM
+2025-03-02 19:02:28,472 [14] INFO  Account Manager - Attempting to refresh Wyz_Alt5 | Last Use: 2025-02-08 8:23:34 PM
+2025-03-02 19:02:33,747 [9] INFO  Account Manager - Attempting to refresh Wyz_Alt6 | Last Use: 2025-02-07 11:44:19 AM
+2025-03-02 19:02:39,049 [14] INFO  Account Manager - Attempting to refresh Wyz_Alt7 | Last Use: 2025-02-08 8:24:02 PM
+2025-03-02 19:02:44,402 [7] INFO  Account Manager - Attempting to refresh Wyz_Alt8 | Last Use: 2025-02-08 8:24:46 PM
+2025-03-02 19:02:49,724 [10] INFO  Account Manager - Attempting to refresh Wyz_Alt9 | Last Use: 2025-02-08 8:25:23 PM
+2025-03-02 19:02:55,034 [13] INFO  Account Manager - Attempting to refresh Wyz_Alt2 | Last Use: 2025-02-08 8:26:05 PM
+2025-03-02 19:03:00,318 [14] INFO  Account Manager - Attempting to refresh Wyz_Alt10 | Last Use: 2025-02-08 8:26:57 PM
+2025-03-02 19:03:05,616 [7] INFO  Account Manager - Attempting to refresh TheyCallMeDeveloper | Last Use: 2025-02-08 8:27:25 PM
+2025-03-23 12:56:55,525 [34] INFO  Account Manager - Attempting to refresh ToV3nus | Last Use: 2025-03-02 7:02:17 PM
+2025-03-23 12:57:00,989 [9] INFO  Account Manager - Attempting to refresh Wyz_Alt3 | Last Use: 2025-03-02 7:02:23 PM
+2025-03-23 12:57:06,289 [25] INFO  Account Manager - Attempting to refresh Wyz_Alt5 | Last Use: 2025-03-02 7:02:28 PM
+2025-03-23 12:57:11,588 [20] INFO  Account Manager - Attempting to refresh Wyz_Alt6 | Last Use: 2025-03-02 7:02:33 PM
+2025-03-23 12:57:16,874 [22] INFO  Account Manager - Attempting to refresh Wyz_Alt7 | Last Use: 2025-03-02 7:02:39 PM
+2025-03-23 12:57:22,151 [20] INFO  Account Manager - Attempting to refresh Wyz_Alt8 | Last Use: 2025-03-02 7:02:44 PM
+2025-03-23 12:57:27,451 [20] INFO  Account Manager - Attempting to refresh Wyz_Alt9 | Last Use: 2025-03-02 7:02:49 PM
+2025-03-23 12:57:32,752 [9] INFO  Account Manager - Attempting to refresh Wyz_Alt2 | Last Use: 2025-03-02 7:02:55 PM
+2025-03-23 12:57:38,067 [25] INFO  Account Manager - Attempting to refresh Wyz_Alt10 | Last Use: 2025-03-02 7:03:00 PM
+2025-03-23 12:57:43,355 [20] INFO  Account Manager - Attempting to refresh TheyCallMeDeveloper | Last Use: 2025-03-02 7:03:05 PM
+2025-03-23 12:57:48,627 [9] INFO  Account Manager - Attempting to refresh Princexx_Yvany | Last Use: 2025-02-19 9:00:25 PM
+2025-04-13 18:12:55,441 [8] INFO  Account Manager - Attempting to refresh ToV3nus | Last Use: 2025-03-23 12:56:55 PM
+2025-04-13 18:13:00,900 [10] INFO  Account Manager - Attempting to refresh Wyz_Alt2 | Last Use: 2025-03-23 12:57:32 PM
+2025-04-13 18:13:06,266 [12] INFO  Account Manager - Attempting to refresh Wyz_Alt3 | Last Use: 2025-03-23 12:57:01 PM
+2025-04-13 18:13:11,974 [11] INFO  Account Manager - Attempting to refresh Wyz_Alt5 | Last Use: 2025-03-23 12:57:06 PM
+2025-04-13 18:13:17,376 [12] INFO  Account Manager - Attempting to refresh Wyz_Alt6 | Last Use: 2025-03-23 12:57:11 PM
+2025-04-13 18:13:22,731 [10] INFO  Account Manager - Attempting to refresh Wyz_Alt7 | Last Use: 2025-03-23 12:57:17 PM
+2025-04-13 18:13:28,036 [13] INFO  Account Manager - Attempting to refresh Wyz_Alt8 | Last Use: 2025-03-23 12:57:22 PM
+2025-04-13 18:13:33,339 [11] INFO  Account Manager - Attempting to refresh Wyz_Alt9 | Last Use: 2025-03-23 12:57:27 PM
+2025-04-13 18:13:38,739 [13] INFO  Account Manager - Attempting to refresh Wyz_Alt10 | Last Use: 2025-03-23 12:57:38 PM
+2025-04-13 18:13:44,037 [11] INFO  Account Manager - Attempting to refresh TheyCallMeDeveloper | Last Use: 2025-03-23 12:57:43 PM
+2025-04-13 18:13:49,387 [10] INFO  Account Manager - Attempting to refresh Princexx_Yvany | Last Use: 2025-03-23 12:57:48 PM
+2025-05-16 20:39:03,719 [29] INFO  Account Manager - Attempting to refresh ToV3nus | Last Use: 2025-04-13 6:12:55 PM
+2025-05-16 20:39:09,119 [9] INFO  Account Manager - Attempting to refresh Wyz_Alt2 | Last Use: 2025-04-13 6:13:01 PM
+2025-05-16 20:39:14,471 [12] INFO  Account Manager - Attempting to refresh Wyz_Alt3 | Last Use: 2025-04-13 6:13:06 PM
+2025-05-16 20:39:19,738 [9] INFO  Account Manager - Attempting to refresh Wyz_Alt5 | Last Use: 2025-04-13 6:13:12 PM
+2025-05-16 20:39:25,022 [9] INFO  Account Manager - Attempting to refresh Wyz_Alt6 | Last Use: 2025-04-13 6:13:17 PM
+2025-05-16 20:39:30,299 [12] INFO  Account Manager - Attempting to refresh Wyz_Alt7 | Last Use: 2025-04-13 6:13:22 PM
+2025-05-16 20:39:35,560 [12] INFO  Account Manager - Attempting to refresh Wyz_Alt8 | Last Use: 2025-04-13 6:13:28 PM
+2025-05-16 20:39:40,837 [11] INFO  Account Manager - Attempting to refresh Wyz_Alt9 | Last Use: 2025-04-13 6:13:33 PM
+2025-05-16 20:39:46,123 [10] INFO  Account Manager - Attempting to refresh Wyz_Alt10 | Last Use: 2025-04-13 6:13:38 PM
+2025-05-16 20:39:53,966 [11] INFO  Account Manager - Attempting to refresh TheyCallMeDeveloper | Last Use: 2025-04-13 6:13:44 PM
+2025-05-16 20:40:02,158 [11] INFO  Account Manager - Attempting to refresh Princexx_Yvany | Last Use: 2025-04-13 6:13:49 PM
+2025-06-05 23:14:40,204 [8] INFO  Account Manager - Attempting to refresh TalkingWizard | Last Use: 2025-05-16 8:45:40 PM
+2025-06-05 23:14:45,342 [17] INFO  Account Manager - Attempting to refresh ToV3nus | Last Use: 2025-05-16 8:39:03 PM
+2025-06-05 23:14:50,672 [14] INFO  Account Manager - Attempting to refresh Wyz_Alt2 | Last Use: 2025-05-16 8:39:09 PM
+2025-06-05 23:14:55,949 [13] INFO  Account Manager - Attempting to refresh Wyz_Alt3 | Last Use: 2025-05-16 8:39:14 PM
+2025-06-05 23:15:01,220 [14] INFO  Account Manager - Attempting to refresh Wyz_Alt5 | Last Use: 2025-05-16 8:39:19 PM
+2025-06-05 23:15:06,508 [13] INFO  Account Manager - Attempting to refresh Wyz_Alt6 | Last Use: 2025-05-16 8:39:25 PM
+2025-06-05 23:15:11,789 [13] INFO  Account Manager - Attempting to refresh Wyz_Alt7 | Last Use: 2025-05-16 8:39:30 PM
+2025-06-05 23:15:17,065 [7] INFO  Account Manager - Attempting to refresh Wyz_Alt8 | Last Use: 2025-05-16 8:39:35 PM
+2025-06-05 23:15:22,355 [10] INFO  Account Manager - Attempting to refresh Wyz_Alt9 | Last Use: 2025-05-16 8:39:41 PM
+2025-06-05 23:15:27,639 [7] INFO  Account Manager - Attempting to refresh Wyz_Alt10 | Last Use: 2025-05-16 8:39:48 PM
+2025-06-05 23:15:33,005 [14] INFO  Account Manager - Attempting to refresh TheyCallMeDeveloper | Last Use: 2025-05-16 8:39:56 PM
+2025-06-05 23:15:38,280 [10] INFO  Account Manager - Attempting to refresh Princexx_Yvany | Last Use: 2025-05-16 8:40:04 PM
+2025-06-06 20:30:29,893 [9] INFO  Account Manager - Attempting to refresh Princexx_Yvany | Last Use: 2025-05-16 8:40:04 PM
+2025-06-12 23:15:11,685 [33] INFO  Account Manager - Attempting to refresh TalkingWizard | Last Use: 2025-05-16 8:45:40 PM
+2025-06-13 08:03:22,399 [31] INFO  Account Manager - Attempting to refresh TalkingWizard | Last Use: 2025-05-16 8:45:40 PM
+2025-06-20 08:04:54,452 [19] INFO  Account Manager - Attempting to refresh TalkingWizard | Last Use: 2025-05-16 8:45:40 PM
+2025-06-24 18:31:43,161 [14] INFO  Account Manager - Attempting to refresh TalkingWizard | Last Use: 2025-05-16 8:45:40 PM
+2025-06-25 13:21:04,375 [29] INFO  Account Manager - Attempting to refresh TalkingWizard | Last Use: 2025-05-16 8:45:40 PM
+2025-06-25 23:16:05,503 [44] INFO  Account Manager - Attempting to refresh ToV3nus | Last Use: 2025-06-05 11:14:45 PM
+2025-06-25 23:16:10,884 [40] INFO  Account Manager - Attempting to refresh Wyz_Alt2 | Last Use: 2025-06-05 11:14:50 PM
+2025-06-25 23:16:16,163 [11] INFO  Account Manager - Attempting to refresh Wyz_Alt3 | Last Use: 2025-06-05 11:14:56 PM
+2025-06-25 23:16:21,406 [40] INFO  Account Manager - Attempting to refresh Wyz_Alt6 | Last Use: 2025-06-05 11:15:06 PM
+2025-06-25 23:16:26,678 [23] INFO  Account Manager - Attempting to refresh Wyz_Alt5 | Last Use: 2025-06-05 11:15:01 PM
+2025-06-25 23:16:31,934 [23] INFO  Account Manager - Attempting to refresh Wyz_Alt7 | Last Use: 2025-06-05 11:15:11 PM
+2025-06-25 23:16:37,207 [13] INFO  Account Manager - Attempting to refresh Wyz_Alt8 | Last Use: 2025-06-05 11:15:17 PM
+2025-06-25 23:16:42,529 [11] INFO  Account Manager - Attempting to refresh Wyz_Alt9 | Last Use: 2025-06-05 11:15:22 PM
+2025-06-25 23:16:47,811 [11] INFO  Account Manager - Attempting to refresh Wyz_Alt10 | Last Use: 2025-06-05 11:15:27 PM
+2025-06-25 23:16:53,090 [23] INFO  Account Manager - Attempting to refresh TheyCallMeDeveloper | Last Use: 2025-06-05 11:15:33 PM
+2025-06-26 20:31:07,862 [37] INFO  Account Manager - Attempting to refresh Princexx_Yvany | Last Use: 2025-06-06 8:30:30 PM
+2025-06-29 20:17:01,982 [32] INFO  Account Manager - Attempting to refresh Just_AnPrivateAcc | Last Use: 2025-06-08 1:13:27 PM
